@@ -1,3 +1,3 @@
 # prompt-regression-harness
 
-A small operational utility using an OpenAI-compatible model router. Run `python3 app.py`.
+A small operational utility using the `gpt-6-luna` frontier model through an OpenAI-compatible router. Run `python3 app.py`.
